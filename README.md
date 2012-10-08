@@ -1,0 +1,4 @@
+RHLcamMouse
+===========
+
+        RHLcamMouse is a gestural interface for future computing. It help you to use your computer from far. You can interact with your PC easily.Take an example, If you are hearing songs in your laptop or desktop you can change the songs, control volume level, play/ pause by just move your fingers from far. Just move your finger left or right for viewing photo albums. You can zoom your pictures by pinching your fingers and you can perform copy and past without using mouse or keyboard. Also you can touch in air to perform double click, drag and drop and some other moue events.                One Webcam and some color markers or whatever you want to select from real world objects are used for recognizing gestures. It gives you a new experience for computer interaction.
